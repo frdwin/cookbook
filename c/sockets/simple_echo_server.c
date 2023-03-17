@@ -59,6 +59,7 @@ int main(void) {
     send(conn_fd, buffer, bytes_received, 0);
   }
 
+  // Close connection
   close(conn_fd);
   shutdown(sock_fd, SHUT_RDWR);
 
