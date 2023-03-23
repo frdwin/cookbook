@@ -1,7 +1,1 @@
-## My personal programming cookbook
-### With recipes for the languages I'm learning:
-
-* C
-* Python
-* Go
-* Rust
+## My personal programming cookbook for the C language
